@@ -13,7 +13,7 @@ from pymatgen.core import Composition
 # ==========================================
 # 1. KONFIGURASI
 # ==========================================
-API_KEY = os.environ.get("MP_API_KEY", "960HzNNVoTEWuIeNhH9k3uXVwjrrHDo9")
+API_KEY = os.environ.get("MP_API_KEY", "[YOUR API]")
 
 TM_ALL = {"Ti", "V", "Cr", "Mn", "Fe", "Co", "Ni", "Cu", "Mo", "Nb", "Zr"}
 
