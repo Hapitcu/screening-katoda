@@ -1,0 +1,8 @@
+Tahap filter,Jumlah elektroda
+Semua elektroda Na,416
+Oksida logam transisi,278
+Tegangan 2.0-4.0 V,181
+Kapasitas >= 100 mAh/g,100
+Perubahan volume <= 15%,71
+E_hull charged <= 0.05 eV,38
+E_hull discharged <= 0.05 eV,33
